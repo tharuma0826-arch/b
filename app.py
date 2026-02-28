@@ -29,6 +29,6 @@ elif total < 180:
     st.write('もっといける！あなたの人生の主導権を取り戻してください！')
 elif total >= 180:
     st.write('お前は勉強の神か')
-    st.image ("image1.jpeg")
+   
 
 
